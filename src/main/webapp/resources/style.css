@@ -1,0 +1,23 @@
+/*h2{
+    align: center;
+}*/
+table{
+    border-collapse:collapse;
+    margin: auto;
+
+}
+tr{
+    font-size: 14px;
+    padding:5px;
+    border-bottom:1px solid lightgray;
+}
+th{
+    font-size: 14px;
+    margin:30px;
+    padding:10px;
+}
+td{
+    font-size: 14px;
+    margin:30px;
+    padding:10px;
+}
