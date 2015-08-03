@@ -7,7 +7,6 @@
     <file url="file://$PROJECT_DIR$/src/main/java/dao/impl/JdbcDaoImpl.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources/db" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources/spring-app.xml" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/main/resources/spring-app.xml" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/webapp" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/test/java/test/TestClass.java" charset="UTF-8" />
   </component>

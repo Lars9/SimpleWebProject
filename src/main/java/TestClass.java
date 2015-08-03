@@ -16,7 +16,7 @@ public class TestClass {
     public static void main(String[] args){
 
         ClassPathXmlApplicationContext context = new ClassPathXmlApplicationContext("spring-app.xml");
-        JdbcDao springJdbc = (JdbcDao)context.getBean("springJdbc");
+        JdbcDao springJdbc = (JdbcDao)context.getBean("jdbcDao");
 
        System.out.println(springJdbc.getObjects());
 
